@@ -1,5 +1,5 @@
 # LoginRequire
-Require Customer Login before access web
+Require the customer have to logged before redirect to site
 
 # Installation
 
