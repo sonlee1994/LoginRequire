@@ -34,4 +34,5 @@ bin/magento setup:upgrade
 bin/magento cache:clean
 ```
 
-After installing and enabling Module, At Admin you must navigate to Stores > Configuration > Customer > Customer Configuration, where you are able to configure the availability of the module for website
+After installing and enabling Module, At Admin you must navigate to Stores > Configuration > Customer > Customer Configuration, where you are able to configure the availability of the module for website.
+The LoginRequire Module allows you to enable or disable the module itself on the level of websites, stores and store views.
